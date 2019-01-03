@@ -1,0 +1,30 @@
+body {
+  background-color: #3C3C48;
+}
+
+.Heading {
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.Head1 {
+  font-size: 8rem;
+  color:#67D7A3;
+  font-family: Pacifico;
+  /* font-weight: bold; */
+
+}
+
+.dices {
+  text-align: center;
+  padding: 3% 15%;
+  margin: 0% 10%;
+
+}
+
+.dicehead {
+  font-size: 3.5rem;
+  color:#67D7A3;
+  font-family: Pacifico;
+  margin-bottom: 15%;
+}
